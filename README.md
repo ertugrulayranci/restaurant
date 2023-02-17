@@ -4,4 +4,4 @@ React and react dom used for this web site
 
 <h2> Screen gif </h2>
 
-![ ] (screen.gif)
+![ ](screen.gif)
