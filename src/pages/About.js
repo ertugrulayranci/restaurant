@@ -6,7 +6,7 @@ function About() {
   return (
     <div className='about'>
         <div className='aboutTop' style={{backgroundImage: `url(${BannerImage})`}}>
-      
+            
         </div>
         <div className='aboutBottom'>
             <h1>About Us</h1>
